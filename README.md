@@ -1,3 +1,1 @@
-READMME
-
-
+shell basics 
