@@ -1,0 +1,6 @@
+#!/bin/bash
+echo "commit message is ?"
+read v
+git add .
+git commit -m"${v}"
+git push origin main
