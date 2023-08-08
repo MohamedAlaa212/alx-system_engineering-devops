@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "the name of the file ?"
+read v
+chmod +x "${v}"
